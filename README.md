@@ -1,4 +1,4 @@
-Files and folders in the mode code zip:
+Files and folders in the model code zip:
 
 "CoreModel" folder: contains runnable jar for the core model version in section 2.5. Instructions on "readme.txt" file in the folder
 
