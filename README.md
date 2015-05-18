@@ -1,4 +1,4 @@
-As well as the thesis PDF, the modelling framework I developed for the PhD is included here. Built in Java, this linked an agent-based spatial economic model to a data framework and a set of interactive visualisation tools. The visualisation tools are designed to produce publication-quality outputs as well as being used to help explore model dymnamics. An example of their use in a publication (PDF): bit.ly/1sppUhW
+As well as the thesis PDF, the modelling framework I developed for the PhD is included here. Built in Java, this linked an agent-based spatial economic model to a data framework and a set of interactive visualisation tools. The visualisation tools are designed to produce publication-quality outputs as well as being used to help explore model dymnamics. [Here's an example](bit.ly/1sppUhW) of their use in a publication (PDF).
 
 Files and folders in the model code zip:
 
