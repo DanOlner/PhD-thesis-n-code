@@ -1,3 +1,5 @@
+As well as the thesis PDF, the modelling framework I developed for the PhD is included here. Built in Java, this linked an agent-based spatial economic model to a data framework and a set of interactive visualisation tools.
+
 Files and folders in the model code zip:
 
 "CoreModel" folder: contains runnable jar for the core model version in section 2.5. Instructions on "readme.txt" file in the folder
